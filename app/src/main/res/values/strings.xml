@@ -5,4 +5,10 @@
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect! You lose, General Kenobi!</string>
     <string name="next_button">Next</string>
+    <string name="question_oceans">The Indian ocean is the largest ocean.</string>
+    <string name="question_mideast">The pyramids are in Ethiopia.</string>
+    <string name="question_africa">The source of the Nile river is in Egypt.</string>
+    <string name="question_south_america">The Amazon river is the longest river in South America.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="question_north_america">Montreal is the capitol of Canada.</string>
 </resources>
