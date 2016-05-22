@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Country Quiz</string>
-    <string name="question_text">Montreal is the capitol of Canada.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect! You lose, General Kenobi!</string>
+    <string name="next_button">Next</string>
 </resources>
